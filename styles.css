@@ -1,0 +1,28 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+}
+
+.card {
+    margin: auto;
+    width: 384px;
+    height: 522px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px black);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

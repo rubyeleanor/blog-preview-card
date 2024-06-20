@@ -55,11 +55,11 @@ h4 {
 
 .title p {
     color: hsl(0, 0%, 50%);
-    line-height: 1.5;
+    line-height: 1.75;
 }
 
 h2 {
-    margin: 15px 0;
+    margin: 10px 0;
 }
 
 h2 a {
